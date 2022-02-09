@@ -100,7 +100,4 @@ namespace CopyGroupPlagin
             return false; //т.к. ссылки нас не интересуют
         }
     }
-    
-
-
 }
